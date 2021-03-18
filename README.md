@@ -1,3 +1,6 @@
+COPIED PROGRAM from: https://github.com/CrossGeeks/MasteringMultilingualSample
+Added polish comments.
+
 # Mastering Multilingual in Xamarin Forms 
 
 <p align="center">
